@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34729.46
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Qly_Danhba", "Qly_Danhba.csproj", "{ED0CD0EA-0D63-4636-AF01-D46EA4B2CF01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED0CD0EA-0D63-4636-AF01-D46EA4B2CF01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED0CD0EA-0D63-4636-AF01-D46EA4B2CF01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED0CD0EA-0D63-4636-AF01-D46EA4B2CF01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED0CD0EA-0D63-4636-AF01-D46EA4B2CF01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C88DA1-7569-442F-A234-F0656498E89F}
+	EndGlobalSection
+EndGlobal

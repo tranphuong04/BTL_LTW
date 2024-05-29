@@ -1,0 +1,10 @@
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\bin\Debug\Qly_Danhba.exe.config
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\bin\Debug\Qly_Danhba.exe
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\bin\Debug\Qly_Danhba.pdb
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.csproj.AssemblyReference.cache
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.Form1.resources
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.Properties.Resources.resources
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.csproj.GenerateResource.cache
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.csproj.CoreCompileInputs.cache
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.exe
+C:\Users\TRANTHITHUPHUONG\Documents\LT_win\Qly_Danhba\obj\Debug\Qly_Danhba.pdb
